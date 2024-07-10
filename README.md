@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br><br>🤝 Let's Connect: Open to collaboration and new opportunities. Reach out! <br> 🔭 I’m currently working on practicing Data Structures and Algorithms  <br>🌱 I’m currently learning about Web Development  <br>👯 I’m looking to collaborate to learn more about Docker <br> 🤝 I’m looking for Intern opportunities in Software Development roles<br>
+💫 About Me:<br><br>🤝 Let's Connect: Open to collaboration and new opportunities. Reach out! <br> 🔭 I’m currently working on practicing Data Structures and Algorithms  <br>🌱 I’m currently learning about Web Development  <br>👯 I’m looking to collaborate to learn more about Docker <br> 🤝 I’m looking for Intern opportunities in Software Development & Data Engineeering roles<br>
 
 
 ## 🌐 Socials:
