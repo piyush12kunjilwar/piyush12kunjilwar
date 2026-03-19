@@ -28,7 +28,7 @@ multiple nodes, and making models fast in production.
 **Applied ML Software Engineer** @ CareerGPT *(Jan 2025 – Dec 2025)*
 - Distributed training infrastructure (PyTorch FSDP, NCCL, multi-node GPU clusters)
 - Agentic workflow engineering using Gemini models
-- Inference optimization — CUDA profiling, Flash Attention, ONNX Runtime
+- Inference optimization — CUDA profiling, Flash Attention, ONNX Runtime 
 - Evaluation pipelines for SFT & RLHF models
 
 **AI Solutions Developer** @ Accenture *(Sep 2022 – Aug 2023)*
