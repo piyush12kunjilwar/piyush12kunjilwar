@@ -1,6 +1,30 @@
 # 💫 About Me:
-💫 About Me:<br><br>🤝 Let's Connect: Open to collaboration and new opportunities. Reach out! <br> 🔭 I’m currently working on practicing Data Structures and Algorithms  <br>🌱 I’m currently learning about Web Development  <br>👯 I’m looking to collaborate to learn more about Docker <br> 🤝 I’m looking for Intern opportunities in Software Development & Data Engineeering roles<br>
+# Hey, I'm Piyush Kunjilwar 👋
 
+ML Engineer specializing in distributed training infrastructure, 
+inference optimization, and agentic AI systems.
+
+## 🔧 What I Work On
+- Distributed Training (PyTorch FSDP, DDP, NCCL, Multi-Node GPU Clusters)
+- Inference Optimization (ONNX Runtime, Flash Attention, 8-bit Quantization, CUDA Profiling)
+- Agentic AI Workflows (Gemini, Multi-step Tool Orchestration)
+- Cloud & MLOps (AWS, Kubernetes, Docker, Kafka)
+
+## 💡 Recent Work
+- Reduced model inference latency from 120ms → 35ms using ONNX 
+  Runtime + quantization + Flash Attention
+- Built multi-node FSDP training infrastructure for SFT and RLHF 
+  workloads — 40% cost and latency reduction
+- Engineered Deep Research agentic workflow using Gemini models 
+  for automated multi-step information retrieval
+
+## 🎓 Education
+MS Information Systems — Northeastern University (May 2026)
+
+## 📫 Let's Connect
+- LinkedIn: linkedin.com/in/piyush-kunjilwar
+- Portfolio: piyush12kunjilwar.github.io
+- Email: kunjilwar.p@northeastern.edu
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://https://www.linkedin.com/in/piyush-kunjilwar-060752175) 
