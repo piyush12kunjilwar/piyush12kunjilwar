@@ -21,7 +21,7 @@ multiple nodes, and making models fast in production.
 - 🤖 Engineered **Deep Research agentic workflow** using Gemini models for automated multi-step information retrieval
 - 📊 Built **DDP training pipeline** on 2.5M+ satellite image sequences with near-linear scaling efficiency
 
----
+---  
 
 ## 💼 Experience   
 
