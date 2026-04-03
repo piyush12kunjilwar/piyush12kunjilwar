@@ -43,7 +43,7 @@ multiple nodes, and making models fast in production.
 
 ## 🔑 Core Competencies
 
-| Area | Tools & Technologies |
+| Area | Tools & Technologies | 
 |------|---------------------|
 | Distributed Training | PyTorch FSDP, DDP, NCCL, DeepSpeed, Multi-Node GPU |
 | Inference Optimization | ONNX Runtime, TensorRT, Flash Attention, Quantization |
