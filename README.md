@@ -13,7 +13,7 @@
 
 I specialize in the infrastructure side of ML — distributed training, 
 inference optimization, and agentic AI systems. I love the parts most 
-people find intimidating: profiling kernels, scaling training across 
+people find intimidating: profiling kernels, scaling training a cross 
 multiple nodes, and making models fast in production.
 
 - 🔥 Reduced model inference latency **120ms → 35ms** (3.5x) using ONNX Runtime, Flash Attention & 8-bit quantization
