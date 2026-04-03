@@ -23,7 +23,7 @@ multiple nodes, and making models fast in production.
 
 ---
 
-## 💼 Experience
+## 💼 Experience 
 
 **Applied ML Software Engineer** @ CareerGPT *(Jan 2025 – Dec 2025)*
 - Distributed training infrastructure (PyTorch FSDP, NCCL, multi-node GPU clusters)
