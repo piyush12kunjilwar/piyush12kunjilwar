@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://piyush12kunjilwar.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjilwar.p@northeastern.edu)
   
---- 
+---   
   
 ## 🚀 About Me
 
